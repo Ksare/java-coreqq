@@ -1,12 +1,10 @@
 package lr10;
 
 import org.jsoup.Jsoup;
-
-import javax.lang.model.util.Elements;
-import javax.swing.text.Element;
-
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
 
 public class ex5 {
     public static void main(String[] args) {
