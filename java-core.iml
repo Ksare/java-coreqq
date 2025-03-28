@@ -28,10 +28,58 @@
     </orderEntry>
     <orderEntry type="module-library">
       <library>
-        <CLASSES />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/poi-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/lib/commons-codec-1.9.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/lib/commons-logging-1.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/lib/junit-4.12.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/lib/log4j-1.2.17.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-3.13-beta1-20150723.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-examples-3.13-beta1-20150723.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-excelant-3.13-beta1-20150723.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-ooxml-3.13-beta1-20150723.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-ooxml-schemas-3.13-beta1-20150723.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/poi-bin-3.13-beta1-20150723/poi-3.13-beta1/poi-scratchpad-3.13-beta1-20150723.jar!/" />
+          <root url="file://$MODULE_DIR$" />
+        </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Downloads/jsoup-1.19.1-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/ant-1.10.15.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/ant-launcher-1.10.15.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/commons-codec-1.15.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/guava-33.3.0-jre.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpclient5-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpcore5-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpcore5-h2-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javaparser-core-3.26.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javaparser-symbol-solver-core-3.26.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javassist-3.30.2-GA.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/log4j-api-2.24.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/Saxon-HE-12.5.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/slf4j-api-1.7.25.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlresolver-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
